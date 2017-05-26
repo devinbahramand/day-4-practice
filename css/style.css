@@ -1,0 +1,44 @@
+.margin {
+  margin-right: 40px;
+}
+#column-1-a {
+background-color: black;
+height: 100px;
+margin-top: 25px;
+margin-left: 75px;
+margin-bottom: 25px;
+}
+.column-1-b {
+  background-color: black;
+  height: 40px;
+  float: right;
+  margin-right: 35px;
+  margin-top: 50px;
+}
+#column-2 {
+  background-color: black;
+  height: 600px;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+#column-3 {
+  background-color: black;
+  height: 50px;
+  margin-left: 74px;
+  margin-top: 60px;
+}
+.column-4-a {
+  background-color: black;
+  height: 250px;
+  margin-left: 74px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+.column-4-b {
+  background-color: black;
+  height: 250px;
+  margin-top: 30px;
+  margin-left: 50px;
+}
